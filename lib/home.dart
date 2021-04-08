@@ -17,7 +17,7 @@ class HomeState extends State<Home> {
     return Scaffold(
       backgroundColor: Colors.red.shade200,
       appBar: AppBar(
-        title: Text("Social Hackathon"),
+        title: Text("Andrea_pl app"),
       ),
       body: Center(
         child: Column(
